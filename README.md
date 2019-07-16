@@ -25,7 +25,9 @@ This will determine the permissions and access for your Pipeline.
 
 Pick a role that makes sense for your project. 
 
-For our purposes, we created a new role which automatically grants default privileges. 
+For our purposes, we created a new role which automatically grants default privileges.
+
+![Pipeline Settings Screenshot](./assets/Pipeline_Settings.png) 
 
 #### Source 
 
@@ -40,6 +42,8 @@ We recommend using your master branch.
 
 Go with Github webhooks. 
 
+![Source Screenshot](assets/Add_Source.png)
+
 
 #### Build
 
@@ -48,12 +52,17 @@ Skip this step for now.
 
 #### Provider
 
-We are going to choose Elastic Beanstalk and the EB app we made in step 2. 
+We are going to choose Elastic Beanstalk and the EB app we made in step 2.
+
+![Deploy Screenshot](assets/Deploy.png) 
 
 ## Step 4: Create Pipeline
 
 Click the **Create Pipeline** button. You'red done!
 
+
+
+![Success](./assets/Success.png)
 
 ## Troubleshooting
 
