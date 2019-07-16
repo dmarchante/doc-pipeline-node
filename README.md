@@ -60,6 +60,8 @@ We are going to choose Elastic Beanstalk and the EB app we made in step 2.
 
 Click the **Create Pipeline** button. You'red done!
 
+Need proof? Here's [a link](http://deploymentappnode-env.yzfrsbvqj4.us-east-1.elasticbeanstalk.com/) to our deployed "app."
+
 
 
 ![Success](./assets/Success.png)
