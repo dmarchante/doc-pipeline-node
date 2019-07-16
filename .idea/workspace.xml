@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef6b34c0-b876-4dad-9a90-95dcf2ee8429" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/Add_Source.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Build.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Build_Action_Provider.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Deploy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Pipeline_Settings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Review.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Source_Action_Provider.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Success.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="426">
-                <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+              <first_editor relative-caret-position="196">
+                <caret line="62" column="99" selection-start-line="62" selection-start-column="99" selection-end-line="62" selection-end-column="99" />
               </first_editor>
               <second_editor />
             </state>
@@ -221,8 +212,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="426">
-            <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+          <first_editor relative-caret-position="196">
+            <caret line="62" column="99" selection-start-line="62" selection-start-column="99" selection-end-line="62" selection-end-column="99" />
           </first_editor>
           <second_editor />
         </state>
