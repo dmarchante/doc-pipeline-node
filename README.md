@@ -49,49 +49,49 @@ Go with Github webhooks.
 
 Create build using AWS Code Build
 
-Config section
+#### Config section
 ![CodeBuild Config Screenshot](assets/1-create-build-config.png)
 
-Source section
+#### Source section
 ![CodeBuild Source Screenshot](assets/2-create-build-source.png)
 
-Environment section
+#### Environment section
 ![CodeBuild Environment Screenshot](assets/3a-create-build-env.png)
 ![CodeBuild Environment Screenshot](assets/3b-create-build-env.png)
 
-Specification section
+#### Specification section
 ![CodeBuild Specification Screenshot](assets/4-create-build-spec.png)
 
-Artifacts section
+#### Artifacts section
 ![CodeBuild Artifact Screenshot](assets/5-create-build-artifacts.png)
 
-Logs section
+#### Logs section
 ![CodeBuild Artifact Screenshot](assets/6-create-build-logs.png)
 
-Create
+#### Create
 ![CodeBuild Artifact Screenshot](assets/7-create-build-create.png)
 
-Add Build Stage to Pipeline
+#### Add Build Stage to Pipeline
 
-Add Stage
+#### Add Stage
 ![Add StageScreenshot](assets/0-add-stage.png)
 
-Name Your Stage
+#### Name Your Stage
 ![Add StageScreenshot](assets/0a-add-stage.png)
 
-Add Action Group
+#### Add Action Group
 ![Add StageScreenshot](assets/0b-add-action-group.png)
 
-Name Your Action
+#### Name Your Action
 ![Add StageScreenshot](assets/0c-add-action.png)
 
-Enter Action Parameters
+#### Enter Action Parameters
 ![Add StageScreenshot](assets/0d-add-action.png)
 
-Click Done
+#### Click Done
 ![Add StageScreenshot](assets/0e-add-action.png)
 
-Your Done
+#### Your Done
 ![Add StageScreenshot](assets/0f-add-action.png)
 
 #### Provider
@@ -107,10 +107,7 @@ Click the **Create Pipeline** button. You're done!
 Need proof? Here's [a link](http://mainnodepipeline-env.ptrkp2rcp6.us-west-2.elasticbeanstalk.com/) to our deployed "app."
 
 
-
-![Success](./assets/Success.png)
-
-Added Build Section
+## Success
 ![Build Success One](./assets/build-success-1.png)
 ![Build Success Two](./assets/build-success-2.png)
 
