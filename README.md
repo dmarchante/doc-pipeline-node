@@ -121,6 +121,12 @@ For most issues, you can find out where it went wrong by checking the checkmarks
  
  In those situations, you can either click the "Details" link in that pane for more info on the error, or you can go 
  to the original logs at the respective service. 
+ 
+ ## Team
+ Jhia Turner
+ Roger Huba
+ David Marchante
+ Kent Ketter
 
 
 
