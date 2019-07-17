@@ -63,7 +63,7 @@ Specification section
 ![CodeBuild Specification Screenshot](assets/4-create-build-spec.png)
 
 Artifacts section
-![CodeBuild Artifact Screenshot](assets/5-create-build-artifact.png)
+![CodeBuild Artifact Screenshot](assets/5-create-build-artifacts.png)
 
 Logs section
 ![CodeBuild Artifact Screenshot](assets/6-create-build-logs.png)
