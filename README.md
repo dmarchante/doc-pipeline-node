@@ -47,8 +47,52 @@ Go with Github webhooks.
 
 #### Build
 
-Skip this step for now. 
+Create build using AWS Code Build
 
+Config section
+![CodeBuild Config Screenshot](assets/1-create-build-config.png)
+
+Source section
+![CodeBuild Source Screenshot](assets/2-create-build-source.png)
+
+Environment section
+![CodeBuild Environment Screenshot](assets/3a-create-build-env.png)
+![CodeBuild Environment Screenshot](assets/3b-create-build-env.png)
+
+Specification section
+![CodeBuild Specification Screenshot](assets/3a-create-build-spec.png)
+
+Artifacts section
+![CodeBuild Artifact Screenshot](assets/3a-create-build-artifact.png)
+
+Logs section
+![CodeBuild Artifact Screenshot](assets/3a-create-build-logs.png)
+
+Create
+![CodeBuild Artifact Screenshot](assets/3a-create-build-create.png)
+
+Add Build Stage to Pipeline
+
+Add Stage
+![Add StageScreenshot](assets/0-add-stage.png)
+
+Name Your Stage
+![Add StageScreenshot](assets/0a-add-stage.png)
+
+Add Action Group
+![Add StageScreenshot](assets/0b-add-action-group.png)
+
+Name Your Action
+![Add StageScreenshot](assets/0c-add-action.png)
+
+Enter Action Parameters
+![Add StageScreenshot](assets/0d-add-action.png)
+
+Click Done
+![Add StageScreenshot](assets/0e-add-action.png)
+
+Your Done
+![Add StageScreenshot](assets/0f-add-action.png)
 
 #### Provider
 
@@ -60,7 +104,7 @@ We are going to choose Elastic Beanstalk and the EB app we made in step 2.
 
 Click the **Create Pipeline** button. You'red done!
 
-Need proof? Here's [a link](http://deploymentappnode-env.yzfrsbvqj4.us-east-1.elasticbeanstalk.com/) to our deployed "app."
+Need proof? Here's [a link](http://mainnodepipeline-env.ptrkp2rcp6.us-west-2.elasticbeanstalk.com/) to our deployed "app."
 
 
 
