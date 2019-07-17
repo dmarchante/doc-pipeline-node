@@ -60,16 +60,16 @@ Environment section
 ![CodeBuild Environment Screenshot](assets/3b-create-build-env.png)
 
 Specification section
-![CodeBuild Specification Screenshot](assets/3a-create-build-spec.png)
+![CodeBuild Specification Screenshot](assets/4-create-build-spec.png)
 
 Artifacts section
-![CodeBuild Artifact Screenshot](assets/3a-create-build-artifact.png)
+![CodeBuild Artifact Screenshot](assets/5-create-build-artifact.png)
 
 Logs section
-![CodeBuild Artifact Screenshot](assets/3a-create-build-logs.png)
+![CodeBuild Artifact Screenshot](assets/6-create-build-logs.png)
 
 Create
-![CodeBuild Artifact Screenshot](assets/3a-create-build-create.png)
+![CodeBuild Artifact Screenshot](assets/7-create-build-create.png)
 
 Add Build Stage to Pipeline
 
@@ -121,6 +121,7 @@ For most issues, you can find out where it went wrong by checking the checkmarks
  
  In those situations, you can either click the "Details" link in that pane for more info on the error, or you can go 
  to the original logs at the respective service. 
+
 
 
 
